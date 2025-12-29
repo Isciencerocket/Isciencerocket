@@ -1,0 +1,18 @@
+# 💫 About Me:
+What I’m working on:<br>AI-powered projects at the intersection of computer vision, UAVs, and interactive systems — including a drone-based vehicle tracking system using YOLO and Raspberry Pi, and Unity-based game design projects focused on mechanics, visuals, and player experience.<br><br>I’m looking to collaborate on:<br>AI / Computer Vision projects (object detection, tracking, real-time systems)<br>Unity game development (2D/3D gameplay, level design, prototyping)<br>UI/UX-driven tech projects where design and engineering meet<br>Hackathon or portfolio-focused builds with real-world impact<br><br>I’m looking for help with:<br>Improving system design & optimization for real-time AI applications<br>Advanced Unity workflows (game architecture, performance, polish)<br>Deploying AI models on edge devices like Raspberry Pi efficiently<br>Turning projects into clean, recruiter-ready open-source repos<br><br>I’m currently learning:<br>Advanced Python for AI and automation<br>YOLO-based object detection & tracking on edge hardware<br>Unity (C#) for game development and portfolio projects<br>UI/UX design principles for developer-focused products<br>GitHub best practices for showcasing real engineering work<br><br>Ask me about:<br>Drone + Raspberry Pi projects<br>YOLO, computer vision, and real-time tracking<br>Unity game development as a beginner building a serious portfolio<br>Turning college projects into industry-level showcases<br><br>Fun fact about me:<br>I’m a computer science student who designs, builds, and experiments — from AI-powered drones to game worlds — and I’m aggressively turning my learning phase into a job-ready portfolio.
+
+
+## 🌐 Socials:
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/_ark_04) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Adithya R) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:adithyarkrishna004@gmail.com) 
+
+# 💻 Tech Stack:
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Raspberry Pi](https://img.shields.io/badge/-Raspberry_Pi-C51A4A?style=for-the-badge&logo=Raspberry-Pi) ![Adobe Illustrator](https://img.shields.io/badge/adobe%20illustrator-%23FF9A00.svg?style=for-the-badge&logo=adobe%20illustrator&logoColor=white) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=Isciencerocket&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=Isciencerocket&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Isciencerocket&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
+---
+[![](https://visitcount.itsvg.in/api?id=Isciencerocket&icon=0&color=0)](https://visitcount.itsvg.in)
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
